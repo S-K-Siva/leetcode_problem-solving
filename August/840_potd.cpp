@@ -3,6 +3,7 @@ using namespace std;
 
 class Solution {
 public:
+
     int numMagicSquaresInside(vector<vector<int>>& grid) {
         int result = 0;
 
